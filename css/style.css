@@ -1,0 +1,37 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+
+h1{
+    color: rgb(49, 49, 49);
+    margin-top: 40px;
+    text-align: center;
+    font-size: 32px;
+}
+
+.input-group{
+    
+    margin: 50px 0px;
+}
+
+.input-group input{
+    height: 45px;
+    
+}
+
+.btn-add{
+
+    background-color: rgb(12, 187, 50);
+    color: white;
+    padding: 0px 63px;
+}
+
+.btn-remove{
+
+    background-color: rgb(187, 12, 12);
+    color: white;
+    padding: 0px 50px;
+}
+
